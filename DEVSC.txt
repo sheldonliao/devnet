@@ -1,0 +1,4 @@
+At this rate I will be reday for the exam in no time.
+<<<<<<< HEAD
+I am a git beginner!
+>>>>>>> test
